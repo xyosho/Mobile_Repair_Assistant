@@ -59,4 +59,3 @@ Edita el diccionario `KNOWLEDGE_BASE` en la sección 2: agrega un nuevo document
 
 [MIT](LICENSE)
 
-[MIT](LICENSE)
