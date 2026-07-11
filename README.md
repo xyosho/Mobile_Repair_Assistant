@@ -1,8 +1,8 @@
 # Mobile Repair Assistant — Agente RAG de Reparación de Celulares
 
-[English](README.md) | **Español**
+**Español**
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<tu-usuario>/cellphone-repair-rag-agent/blob/main/mobile_repair_assistant.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xyosho/Agente-IA-de-reparacion-de-celulares-/blob/main/Agente%20reparador%20de%20moviles.ipynb)
 
 Un agente de IA que asiste a técnicos de reparación y personal de soporte en el diagnóstico de problemas comunes de celulares (fallas de carga, pantalla negra, evaluación de garantía) a través de una interfaz conversacional profesional en Gradio.
 
@@ -56,5 +56,7 @@ flowchart LR
 Edita el diccionario `KNOWLEDGE_BASE` en la sección 2: agrega un nuevo documento markdown (o una nueva sección `##` a uno existente) y vuelve a ejecutar el notebook desde esa celda. Cada sección `##` se convierte en un fragmento recuperable independiente.
 
 ## Licencia
+
+[MIT](LICENSE)
 
 [MIT](LICENSE)
